@@ -1,7 +1,7 @@
 # Django Introduction
 
-# Polling application
+# Polling application Django
 
 ```
-It is a polling application made by gusing Django templates
+It is a polling application made by in python using Django frame work
 ```
